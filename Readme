@@ -1,6 +1,6 @@
 Hello,
 
-This document describes the material of our paper submitted for CHI2020 to validate and reproduce the results.
+This document describes the material of our paper submitted for ESWC to validate and reproduce the results.
 
 1. The file "UEQ_Data_Analysis_Tool_V" reports the results (please see sheet "results" of User Experience Questionnaire using our tool.
 
@@ -12,4 +12,4 @@ This document describes the material of our paper submitted for CHI2020 to valid
 
 3. The file "UserTestReport" reports the results of the semi-structured interview.
 
-4. Tool-master is the code of our tool, code is available on Github at https://github.com/devbas/Treption
+4. Tool-master is the code of our tool, code is also available on Github at https://github.com/devbas/Treption
