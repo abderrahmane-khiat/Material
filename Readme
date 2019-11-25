@@ -1,0 +1,15 @@
+Hello,
+
+This document describes the material of our paper submitted for CHI2020 to validate and reproduce the results.
+
+1. The file "UEQ_Data_Analysis_Tool_V" reports the results (please see sheet "results" of User Experience Questionnaire using our tool.
+
+2. The file "Triple-votes-groungtruth-OpenIE" reports the results of our tool in terms of quality.
+- The sheet "vote-data" presents the results of the triples extracted using our tool and the voting by other players
+- The sheet "Expert Benchmark" presents the ground truth of the extracted triples
+- The sheet "OpenIE=1" presents the results of the triples extracted using OpenIE for confidence = 1
+- The sheet "OpenIE<1" presents the results of the triples extracted using OpenIE for confidence < 1
+
+3. The file "UserTestReport" reports the results of the semi-structured interview.
+
+4. Tool-master is the code of our tool, code is available on Github at https://github.com/devbas/Treption
