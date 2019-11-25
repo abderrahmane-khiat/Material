@@ -13,3 +13,8 @@ This document describes the material of our paper submitted for ESWC2020 to vali
 3. The file "UserTestReport" reports the results of the semi-structured interview.
 
 4. Tool-master is the code of our tool, code is also available on Github at https://github.com/devbas/Treption
+ The tool has been developed using python and javascript. 
+ To enable triple storage, we used Apache Jena Fuseki and MySQL for datastore (voting, nouns, verbs). 
+ For natural language processing we used stanford-corenlp. 
+ Finally, we packaged our tool using Docker, so it can be easy to use. 
+ The current version of the tool is standalone however, with docker we can deployed on a crowdsourcing platform such as Amazon Mechanical Turk.
